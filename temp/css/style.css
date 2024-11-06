@@ -1,0 +1,27 @@
+.bg1 {
+    height: 600px;
+    width: 100%;
+    background-image: url(../images/dylan-calluy-JpflvzEl5cg-unsplash.jpg);
+    background-position: 0% 9%;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+.modal-search {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+
+.modal-search input[type="text"] {
+    width: 80%;
+    max-width: 400px;
+    padding: 10px;
+    font-size: 18px;
+  }
+
+.sectors img{
+  height: 500px;
+  width: 100%;
+}
