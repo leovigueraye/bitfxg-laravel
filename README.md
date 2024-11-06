@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is an implementation of a High Yield Investment platform 
+This is an implementation of a High Yield Investment and trading platform 
 
 ### At a glance
 
